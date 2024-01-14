@@ -15,3 +15,7 @@ print(img1.ndim)
 print(img1.size)
 print(img1.dtype)
 print(img1.nbytes)
+
+print(img1.min())
+print(img1.max())
+print(img1.mean())
